@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "162727331598",
+    "project_id": "bmichrashlytics",
+    "storage_bucket": "bmichrashlytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162727331598:android:025b5f525cbaef5a80395f",
+        "android_client_info": {
+          "package_name": "com.neebal.bmicrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162727331598-3oa61t0iro63frvj7duld46ptid6m11s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neebal.bmicrash",
+            "certificate_hash": "d3a500bd98f99904e66aa28f311af3c295bd437f"
+          }
+        },
+        {
+          "client_id": "162727331598-oq6v6rmungc61peogghgleettcdcj2lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb31Q3O5qOyX26oLdBGVhWB7p9Solh8dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162727331598-oq6v6rmungc61peogghgleettcdcj2lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
